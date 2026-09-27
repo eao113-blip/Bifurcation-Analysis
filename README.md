@@ -4,8 +4,7 @@ A computational tool that automates detection and visualization of bifurcations
 in two-parameter families of two-dimensional first-order dynamical systems.
 
 **Attribution**: The accompanying report (April 2026) is co-authored with
-Tristan Mihocko and Krishna Patel, as assigned by our differential equations
-professor. All code, mathematical derivation, and implementation in this
+Tristan Mihocko and Krishna Patel. All code, mathematical derivation, and implementation in this
 repository were done independently by Elijah Otaner.
 
 ## Problem
