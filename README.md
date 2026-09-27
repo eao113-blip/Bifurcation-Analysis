@@ -48,8 +48,13 @@ Validated against two systems with known analytic bifurcation structure:
 
 - **Hopf normal form** (`dx/dt = αx − y − x(x²+y²)`, `dy/dt = x + αy − y(x²+y²)`) —
   tool correctly recovers the Hopf bifurcation line **α = 0**.
+
+  ![Hopf normal form bifurcation diagram](./bifurcation_diagram_hopf.png)
+
 - **Bogdanov-Takens system** (`dx/dt = y`, `dy/dt = α + βy + x² + xy`) —
   tool correctly recovers the curved Hopf bifurcation boundary **β = √(−α)**.
+
+  ![Bogdanov-Takens bifurcation diagram](./bifurcation_diagram_bogdanov_takens.png)
 
 ## Limitations (honest assessment)
 
